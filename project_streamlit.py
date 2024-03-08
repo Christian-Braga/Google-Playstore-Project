@@ -11,7 +11,7 @@ from sklearn.ensemble import RandomForestRegressor
 import streamlit as st
 import io
 
-google_df = pd.read_csv('Project_files/sample_google_df.csv')
+google_df = pd.read_csv('sample_google_df.csv')
 cleaned_df = pd.read_csv('Project_files/cleaned_df.csv')
 
 copy_df = google_df.copy()
