@@ -1,4 +1,4 @@
-This is the project for the programming and database exam, programming module. Data Science Degree 2024.
+Project for the programming and database exam, programming module. Data Science Degree 2024.
 
 
 PROJECT FILES = is the folder that contains all the files of the project (code ,graphs ,datasets etc..)
